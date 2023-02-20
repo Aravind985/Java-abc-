@@ -19,6 +19,7 @@
   </properties>
 
   <dependencies>
+    <dependencieg>
     <dependency>
       <groupId>net.sf.jasperreports</groupId>
       <artifactId>jasperreports</artifactId>
